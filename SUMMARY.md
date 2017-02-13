@@ -1,7 +1,9 @@
-## 本书结构
+# Summary
 
 * [First Chapter](chapter1.md)
 ---
-## 算法基础
+* [First Chapter](chapter1.md)
+
 ---
-## 编程训练
+* [First Chapter](chapter1.md)
+
