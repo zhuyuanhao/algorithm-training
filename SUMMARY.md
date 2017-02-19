@@ -10,7 +10,6 @@
 
 ## 数据结构和算法
 
-* [Part I - Basics](part_i_basics/README.md)
 * [Basics Data Structure](basics_data_structure/README.md)
   * [String](basics_data_structure/string.md)
   * [Linked List](basics_data_structure/linked_list.md)
@@ -45,7 +44,9 @@
   * [Bitmap](basics_algorithm/bitmap.md)
 * [Basics Misc](basics_misc/README.md)
   * [Bit Manipulation](basics_misc/bit_manipulation.md)
-* [Part II - Coding](part_ii_coding/README.md)
+
+## 题目讲解
+
 * [String](string/README.md)
   * [Implement strStr](string/strstr.md)
   * [Two Strings Are Anagrams](string/two_strings_are_anagrams.md)
@@ -266,5 +267,5 @@
   * [Scalability](appendix_ii_system_design/scalability.md)
 * [Tags](tags.md)
 
-## 题目讲解
+
 
