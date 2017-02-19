@@ -1,4 +1,5 @@
-## Summary
+# Summary
+## 概述
 
 ## 语法
 
@@ -7,8 +8,6 @@
 
 ## 数据结构和算法
 
-* [数据结构和算法](c2.datastructure/README.md)
-* [题目讲解](c3.code/README.md)
 * [Part I - Basics](part_i_basics/README.md)
 * [Basics Data Structure](basics_data_structure/README.md)
   * [String](basics_data_structure/string.md)
