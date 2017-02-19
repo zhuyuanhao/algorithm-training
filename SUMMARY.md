@@ -1,10 +1,10 @@
 # Summary
 ## 概述
-
+* [文档介绍](README.md)
 ## 语法
 
 * [文档介绍](README.md)
-* [语法](c1.language/README.md)
+* [语法](README.md)
 
 ## 数据结构和算法
 
