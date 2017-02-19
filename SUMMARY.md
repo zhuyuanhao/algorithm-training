@@ -6,7 +6,10 @@
 
 ## 语法
 
-* [语法](README.md)
+* [C 语法](language_c/README.md)
+* [C++ 语法](language_cpp/README.md)
+
+
 
 ## 数据结构和算法
 
