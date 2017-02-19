@@ -9,15 +9,12 @@
 * [C 语法](language_c/README.md)
 * [C++ 语法](language_cpp/README.md)
 
-
-
 ## 数据结构和算法
 
 * [基础数据结构](data_structure_basic/README.md)
-  * [String](data_structure_basic/string.md)
-  * [Linked List](data_structure_basic/linked_list.md)
-  * [Binary Tree](data_structure_basic/binary_tree.md)
-  * [Huffman Compression](data_structure_basic/huffman_compression.md)
+  * [字符串](data_structure_basic/string.md)
+  * [链表](data_structure_basic/linked_list.md)
+  * [二叉树](data_structure_basic/binary_tree.md)
   * [Queue](data_structure_basic/queue.md)
   * [Heap](data_structure_basic/heap.md)
   * [Stack](data_structure_basic/stack.md)
@@ -25,6 +22,7 @@
   * [Map](data_structure_basic/map.md)
   * [Graph](data_structure_basic/graph.md)
 * [高级数据结构](data_structure_advanced/README.md)
+* [Huffman Compression](data_structure_basic/huffman_compression.md)
 * [排序算法](basics_sorting/README.md)
   * [Bubble Sort](basics_sorting/bubble_sort.md)
   * [Selection Sort](basics_sorting/selection_sort.md)
