@@ -11,7 +11,7 @@
    * [Contributors](faq/contributors.md)
 * [Part I - Basics](part_i_basics/README.md)
 * [Basics Data Structure](basics_data_structure/README.md)
-   * [String](basics_data_structure/string.md)
+..* [String](basics_data_structure/string.md)
    * [Linked List](basics_data_structure/linked_list.md)
    * [Binary Tree](basics_data_structure/binary_tree.md)
    * [Huffman Compression](basics_data_structure/huffman_compression.md)
