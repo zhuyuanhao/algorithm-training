@@ -22,7 +22,7 @@
   * [Map](data_structure_basic/map.md)
   * [Graph](data_structure_basic/graph.md)
 * [高级数据结构](data_structure_advanced/README.md)
-* [Huffman Compression](data_structure_basic/huffman_compression.md)
+  * [Huffman Compression](data_structure_basic/huffman_compression.md)
 * [排序算法](basics_sorting/README.md)
   * [Bubble Sort](basics_sorting/bubble_sort.md)
   * [Selection Sort](basics_sorting/selection_sort.md)
