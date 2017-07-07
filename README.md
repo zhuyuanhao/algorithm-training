@@ -27,6 +27,8 @@
 ### 3. 线上训练平台
 
 * LeetCode：[https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)
+* LintCode: http://www.lintcode.com/zh-cn/
+* 九章算法的答案：http://www.jiuzhang.com/solutions/
 
 ### 4. 其他
 
