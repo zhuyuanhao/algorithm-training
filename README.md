@@ -1,16 +1,11 @@
-# 算法和数据结构训练
-
-本文档用来总结编程竞赛中用到的数据结构和算法
-
 ## 算法竞赛简介
+* **NOIP**是全国青少年信息学奥林匹克联赛（National Olympiad in Informatics in Provinces，简称NOIP）自1995年至今已举办19次。每年由中国计算机学会统一组织。NOIP在同一时间、不同地点以各省市为单位由特派员组织。
 
-* NOI是教育部和中国科协委托中国计算机学会举办了全国青少年计算机程序设计竞赛，即全国青少年信息学奥林匹克竞赛（简称NOI）。
+* **NOI**是教育部和中国科协委托中国计算机学会举办了全国青少年计算机程序设计竞赛，即全国青少年信息学奥林匹克竞赛（简称NOI）。
 
-NOIP是全国青少年信息学奥林匹克联赛（National Olympiad in Informatics in Provinces，简称NOIP）自1995年至今已举办19次。每年由中国计算机学会统一组织。 NOIP在同一时间、不同地点以各省市为单位由特派员组织。
+* **IOI**是国际信息学奥林匹克竞赛（International Olympiad in Informatics，IOI），是面向中学生的一年一度的信息学科竞赛。
 
-IOI是国际信息学奥林匹克竞赛（International Olympiad in Informatics，IOI），是面向中学生的一年一度的信息学科竞赛。第一届国际信息学奥林匹克竞赛于1989年在保加利亚的布拉维茨举行。
-
-ACM是国际大学生程序设计竞赛\(英文全称：ACM International Collegiate ProgrammingContest（ACM-ICPC或ICPC）是由美国计算机协会（ACM）主办的，一项旨在展示大学生创新能力、团队精神和在压力下编写程序、分析和解决问题能力的年度竞赛。经过近30多年的发展，ACM国际大学生程序设计竞赛已经发展成为最具影响力的大学生计算机竞赛。
+* **ACM/ICPC**是国际大学生程序设计竞赛(ACM International Collegiate Programming Contest)是由美国计算机协会（ACM）主办的，提供给大学生的一个展示和提高解题与编程能力的机会。赛事由各大洲区域预赛和全球总决赛两个阶段组成。各预赛区第一名自动获得参加全球总决赛的资格。决赛安排在每年的 3-4 月举行，而区域预赛一般安排在上一年的 9-12 月举行。一个大学可以有多支队伍参加区域预赛，但只能有一支队伍参加全球总决赛。决赛的颁奖仪式将和计算机界权威的学术奖——图灵奖的颁奖仪式同时进行。
 
 ## 参考资料
 
@@ -32,6 +27,8 @@ ACM是国际大学生程序设计竞赛\(英文全称：ACM International Colleg
 ### 3. 线上训练平台
 
 * LeetCode：[https://leetcode.com/problemset/algorithms/](https://leetcode.com/problemset/algorithms/)
+* LintCode: http://www.lintcode.com/zh-cn/
+* 九章算法的答案：http://www.jiuzhang.com/solutions/
 
 ### 4. 其他
 
@@ -40,8 +37,6 @@ ACM是国际大学生程序设计竞赛\(英文全称：ACM International Colleg
 ## 在线OJ及部分题解
 
 * [数据结构与算法 - 实验楼](https://www.shiyanlou.com/courses/484) - 本书的同步练习平台。
-* [LeetCode Online Judge](https://leetcode.com/) - 找工作方面非常出名的一个OJ，每道题都有 discuss 页面，可以看别人分享的代码和讨论，很有参考价值，相应的题解非常多。~~不过在线代码编辑框不太好用，写着写着框就拉下来了~~，最近没有这个问题了，评测速度通常比 lintcode 快很多，而且做完后可以看自己代码的运行时间分布，首推此 OJ 刷面试相关的题。
-* [LintCode](http://www.lintcode.com) - 和leetcode类似的在线OJ，但是筛选和写代码时比较方便，左边为题目，右边为代码框。还可以在`source`处选择 CC150 或者其他来源的题。会根据系统locale选择中文或者英文，可以拿此 OJ 辅助 leetcode 进行练习。
 * [hihoCoder](http://hihocoder.com/) - 非常不错的一个 OJ，每周都会推出一个专题供你学习，都是干货。
 * [LeetCode题解 - GitBook](https://www.gitbook.com/book/siddontang/leetcode-solution/details) - 题解部分详细，比较容易理解，但题目很不全。
 * [FreeTymeKiyan/LeetCode-Sol-Res](https://github.com/FreeTymeKiyan/LeetCode-Sol-Res) - Clean, Understandable Solutions and Resources on LeetCode Online Judge Algorithms Problems.
